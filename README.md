@@ -6,7 +6,7 @@ Dynamically discovers hosts from any flake by evaluating `nixosConfigurations` a
 
 **Requires SSH access to all target machines** (e.g., via `~/.ssh/config`, SSH agent, or Tailscale).
 
-<video src="https://github.com/multivac61/all.nix/releases/download/v0.1.0/all.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/0c03a825-d595-45c4-997c-3adda8429a17
 
 ## Usage
 
